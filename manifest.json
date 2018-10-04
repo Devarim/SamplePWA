@@ -4,7 +4,7 @@
     "start_url": ".",
     "display": "fullscreen",
     "background_color": "#AAA",
-    "description": "A simply ",
+    "description": "A simply sample PWA",
     "icons": [
         {
             "src": "dist/img/icon.png",
